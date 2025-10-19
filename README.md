@@ -10,7 +10,8 @@ An **iOS News Reader App** built with **Clean Architecture + MVVM + Dependency I
 - 🔍 Search articles by title  
 - 📌 Bookmark and unbookmark articles  
 - 💾 Offline data caching using **Core Data**  
-- 💡 Bookmarks persisted using **UserDefaults**  
+- 💡 Bookmarks persisted using **UserDefaults**
+- 🔄 Pull to Refresh to reload latest articles
 - 🧠 Built with **Clean Architecture + MVVM**  
 - 🧩 Uses **Dependency Injection** for scalable and testable architecture  
 
